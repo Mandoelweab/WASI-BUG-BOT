@@ -3,13 +3,13 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923192173398"
+global.ownernomer = "201012829956"
 global.ownername = "🐛 MR WASI "
 global.ytname = "YT: Dont have"
 global.socialm = "GitHub: private"
 global.location = "Pakistan, Lahore"
 
-global.ownernumber = '923347748038'  //creator number
+global.ownernumber = '201012829956'  //creator number
 global.ownername = ' MR WASI ' //owner name
 global.botname = 'WASI TECH BUG BOT ' //name of the bot
 
@@ -33,7 +33,7 @@ global.autoTyping = false //auto typing
 global.autorecordtype = false //auto typing + recording
 global.autoread = false //auto read messages
 global.autobio = true //auto update bio
-global.anti92 = false //auto block +92 
+global.anti92 = false //auto block 201012829956 
 global.autoswview = true //auto view status/story
 
 //menu type 
